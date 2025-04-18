@@ -1,0 +1,130 @@
+EXP 5
+@ Implement Decision Tree in WEKA
+
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > trees > J48
+	- start
+	- Right click Result list >  Visualize tree
+
+EXP 6
+@ To implement a Bayesian classifier without using library functions in WEKA
+
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > bayes > NaiveBayes
+	- start
+	- Result in classifier output
+
+
+EXP 7
+@ To implement a Bayesian classifier without using library functions in WEKA
+
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > bayes > BayesNet
+	- start
+	- Result in classifier output
+
+EXP 8
+@ To implement SVM  in WEKA
+
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > funtions > SMO
+	- start
+	- Result in classifier output
+
+EXP 9
+@ To implement Adaboost in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+
+EXP 10
+@ To implement Adaboost in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+
+EXP 10
+@ To implement Random Forests in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 11
+@ To implement the Back-propagation algorithm  in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 12
+@ To implement K-means clustering  in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 13
+@ To implement BIRCH in Rapidminer
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 14
+@ To implement DBSCAN  in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 15
+@ To implement CLIQUE  in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 16
+@ To implement the Apriori algorithm in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+EXP 17
+@ To implement FP-Growth algorithm  in WEKA
+	
+	- Weka > Explorer
+	- Preprocess "open csv or arff file"
+	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- start
+	- Result in classifier output
+
+
+
+
+
+
+
+
+
+
+
