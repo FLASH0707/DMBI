@@ -10,4 +10,4 @@ https://chatgpt.com/share/6802c353-7984-8006-8ec8-845398dd6e71
 
 https://jan.ai/
 
-https://chat.google.com/room/AAQAbt6HI24?cls=7
+
