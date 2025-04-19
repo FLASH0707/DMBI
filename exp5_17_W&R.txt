@@ -45,28 +45,21 @@ EXP 9
 	- Result in classifier output
 
 EXP 10
-@ To implement Adaboost in WEKA
-	
-	- Weka > Explorer
-	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
-	- start
-	- Result in classifier output
-
-EXP 10
 @ To implement Random Forests in WEKA
 	
 	- Weka > Explorer
 	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- Classify Tab > Classifier Choose  > weka > Classifiers > tress > RandomForest
 	- start
 	- Result in classifier output
+
+
 EXP 11
 @ To implement the Back-propagation algorithm  in WEKA
 	
 	- Weka > Explorer
 	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- Classify Tab > Classifier Choose  > weka > Classifiers > functions > MultilayerPerceptron
 	- start
 	- Result in classifier output
 EXP 12
@@ -74,49 +67,10 @@ EXP 12
 	
 	- Weka > Explorer
 	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
+	- Cluster Tab > Clusterer Choose  > weka > Clusterer > SimpleKMeans
 	- start
-	- Result in classifier output
-EXP 13
-@ To implement BIRCH in Rapidminer
-	
-	- Weka > Explorer
-	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
-	- start
-	- Result in classifier output
-EXP 14
-@ To implement DBSCAN  in WEKA
-	
-	- Weka > Explorer
-	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
-	- start
-	- Result in classifier output
-EXP 15
-@ To implement CLIQUE  in WEKA
-	
-	- Weka > Explorer
-	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
-	- start
-	- Result in classifier output
-EXP 16
-@ To implement the Apriori algorithm in WEKA
-	
-	- Weka > Explorer
-	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
-	- start
-	- Result in classifier output
-EXP 17
-@ To implement FP-Growth algorithm  in WEKA
-	
-	- Weka > Explorer
-	- Preprocess "open csv or arff file"
-	- Classify Tab > Classifier Choose  > weka > Classifiers > meta > AdaboostM1
-	- start
-	- Result in classifier output
+	- Result in Cluster output
+
 
 
 
