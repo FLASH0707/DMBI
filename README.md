@@ -12,3 +12,4 @@ https://jan.ai/
 
 https://github.com/riiddhii28/dmbi
 
+s.id/dmbilab
